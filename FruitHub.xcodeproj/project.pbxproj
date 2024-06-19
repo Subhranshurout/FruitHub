@@ -68,9 +68,9 @@
 				039B93482C2199CB0023B75F /* BadScript-Regular.ttf */,
 				03D065482C22D6EA0005A370 /* BrandonGrotesque-Regular.otf */,
 				03D065462C22D5880005A370 /* BrandonGrotesque-Medium.ttf */,
-				03D065432C22C0510005A370 /* Entry */,
 				039B93342C215A8A0023B75F /* FruitHubApp.swift */,
-				039B93462C215F5F0023B75F /* ConstantsAndExtensions.swift */,
+				03D065432C22C0510005A370 /* Entry */,
+				69E7A11D2C22EE5400BF7E4F /* Helper Classes */,
 				039B93382C215A8E0023B75F /* Assets.xcassets */,
 				039B933A2C215A8E0023B75F /* Preview Content */,
 			);
@@ -93,6 +93,14 @@
 				03D0654A2C22E2910005A370 /* AuthenticationScreen.swift */,
 			);
 			path = Entry;
+			sourceTree = "<group>";
+		};
+		69E7A11D2C22EE5400BF7E4F /* Helper Classes */ = {
+			isa = PBXGroup;
+			children = (
+				039B93462C215F5F0023B75F /* ConstantsAndExtensions.swift */,
+			);
+			path = "Helper Classes";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

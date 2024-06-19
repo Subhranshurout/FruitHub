@@ -71,7 +71,7 @@ struct AuthenticationScreen: View {
                                 Spacer()
                                     .frame(height: 58.h)
                                 Button {
-//                                    Navigate to Home Screen
+//                                    Navigate to Home Screen 
                                 } label: {
                                     Text("Start Ordering")
                                         .font(.custom("BrandonGrotesque-Medium", size: 16))
